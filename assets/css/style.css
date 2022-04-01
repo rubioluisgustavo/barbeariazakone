@@ -29,7 +29,7 @@ h1, h2, h3, h4, h5, h6 {
 .logo img{
   text-align: center;
   justify-content: center;
-  width: 100%;
+  width: 80%;
 }
 
 /*--------------------------------------------------------------
@@ -51,9 +51,6 @@ h1, h2, h3, h4, h5, h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #37517e;
-  border-top-color: #fff;
-  border-bottom-color: #fff;
   border-radius: 50%;
   width: 60px;
   height: 60px;
@@ -140,7 +137,7 @@ h1, h2, h3, h4, h5, h6 {
 # Hero Section
 --------------------------------------------------------------*/
 #hero {
-  width: 100%;
+  width: 50%;
   background-image: linear-gradient(rgb(22,22,22),black);
   background-position: center;
   background-repeat: no-repeat;
